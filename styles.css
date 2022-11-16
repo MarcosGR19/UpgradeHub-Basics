@@ -1,0 +1,31 @@
+h2{
+    margin:30px;
+    padding:20px;
+    border:3px solid darkcyan;
+}
+
+p{
+    margin:15px;
+    color: aliceblue;
+    font-family:'Times New Roman', Times, serif;
+    font-size:larger;
+}
+
+.box {
+	width: 175px;
+	height: 100px;
+    margin: 5px;
+    display: inline-block;
+}
+
+.red-background {
+	background-color: red;
+}
+
+.blue-background {
+	background-color: blue;
+}
+
+.green-background {
+	background-color: green;
+}
