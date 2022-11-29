@@ -11,6 +11,10 @@ p{
     font-size:larger;
 }
 
+.black-text{
+    color: black;
+}
+
 .box {
 	width: 175px;
 	height: 100px;
